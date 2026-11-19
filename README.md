@@ -17,8 +17,9 @@ tested device.
 > OnePlus, OPPO/OPlus, OxygenOS, Vector, or LSPosed.
 
 > The module hooks private Android and OxygenOS implementation details. It has
-> only been tested on a OnePlus 8T running Android 13 / OxygenOS 13.1. Other
-> devices, ROMs, and Android versions may require different hook mappings.
+> been tested on OnePlus 5T and OnePlus 8T devices running the OxygenOS versions
+> listed below. Other devices, ROMs, and Android versions may require different
+> hook mappings.
 
 ## Features
 
@@ -33,8 +34,8 @@ tested device.
 
 ## Compatibility
 
-- Tested device: OnePlus 8T.
-- Tested system: Android 13 / OxygenOS 13.1.
+- Tested: OnePlus 5T, Android 10, OxygenOS 10.
+- Tested: OnePlus 8T, Android 13, OxygenOS 13.1.
 - Tested framework: Vector 2.2 (API 102) with Zygisk.
 - Module interface: legacy Xposed API, minimum framework API 93.
 - Required scope: **System Framework only**.
